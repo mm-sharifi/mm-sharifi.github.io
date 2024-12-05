@@ -211,8 +211,7 @@ ul {
     font-style: normal;
     padding-inline: 8px;
     color: #333332;
-    text-wrap: auto;
-    text-wrap-mode: nowrap;
+    white-space: nowrap;
 }
 a {
     color: #0086df;
